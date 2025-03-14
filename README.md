@@ -19,7 +19,7 @@ Follow these steps to set up the project locally:
 
 ```sh
 # Step 1: Clone the repository
-git clone <YOUR_REPOSITORY_URL>
+git clone <https://github.com/LASHETTY/Job-listing-platform-assignment.git>
 
 # Step 2: Navigate to the project directory
 cd employify-space
